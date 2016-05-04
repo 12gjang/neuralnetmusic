@@ -1,0 +1,4 @@
+name = "musicgen3"
+repo = "https://github.com/llSourcell/neuralnetmusic.git"
+description = "generating music"
+environment = "theano"
